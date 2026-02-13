@@ -1,2 +1,3 @@
-# H0-beleuchtung
-Arduino dcc led light decoder for h0 Model Trains
+# H0-Beleuchtung
+
+Arduino DCC LED Light Decoder for H0 Model Trains
